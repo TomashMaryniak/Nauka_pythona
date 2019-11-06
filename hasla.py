@@ -1,6 +1,6 @@
 print("Progrma maskujcy haslo")
 print("Podaj haslo do zamaskowania")
-haslo = '123456789'
+haslo = 'Maryniak123'
 dl_hasla = len(haslo)
-print dl_hasla
-print("HASLO: "+haslo[1])
+for x in xrange(dl_hasla):
+    print("Haslo: "+haslo[0] haslo[-1])
